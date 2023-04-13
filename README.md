@@ -6,4 +6,5 @@
 [![Photo Editing](https://img.shields.io/badge/Photo-Gimp-informational?style=flat&logo=gimp&color=2bbc8a)](https://www.gimp.org/)
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
 [![Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
-</p>
+</p><br>
+<h6 align="center">some of you may wonder why there is -2 in my id/name because I forgot my email password to which my first account was assigned</h6>
