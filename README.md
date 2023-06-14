@@ -1,4 +1,7 @@
-<!-- this was inspired by https://github.com/Akascape -->
+<!-- This was inspired by https://github.com/Akascape -->
+<!-- KACPER OS image was created using the "Minecraft Title Generator" plugin for Blockbench by Ewan Howell > https://www.youtube.com/@EwanHowell -->
+<!-- The font used in KACPER OS image is owned by Mine-imator-->
+![logo](image.png)
 <br> <h2 align="center">Things, what I use</h2>
 <br> <p align="center"> 
 [![Main OS](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://pl.wikipedia.org/wiki/Windows_10)
