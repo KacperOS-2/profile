@@ -11,3 +11,4 @@
 [![Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 </p><br>
 <h6 align="center">some of you may wonder why there is -2 in my id/name because I forgot my email password to which my first account was assigned</h6>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KacperOS-2&theme=github_dark">
