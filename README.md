@@ -10,4 +10,4 @@
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
 [![Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 </p><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kacper-OS&theme=github_dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacper-the-programmer&theme=github_dark">
